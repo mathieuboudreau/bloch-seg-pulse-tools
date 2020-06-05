@@ -1,0 +1,1 @@
+[B1, pulseWidth, ampInt, powerInt, absInt]=myFermiFunc(1,0,0.0028,0.000189318,linspace(-0.004,0.004,510));
